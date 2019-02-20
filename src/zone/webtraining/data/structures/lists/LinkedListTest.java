@@ -1,3 +1,5 @@
+package zone.webtraining.data.structures.lists;
+
 import java.util.LinkedList;
 import java.util.List;
 

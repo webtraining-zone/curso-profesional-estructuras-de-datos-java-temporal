@@ -1,3 +1,4 @@
+package zone.webtraining.data.structures.arrays;
 
 public class ArraysTest {
     public static void main(String[] args) {

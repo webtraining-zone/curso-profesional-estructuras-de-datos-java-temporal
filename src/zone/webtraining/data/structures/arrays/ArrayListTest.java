@@ -1,3 +1,4 @@
+package zone.webtraining.data.structures.arrays;
 
 import java.util.List;
 import java.util.ArrayList;
